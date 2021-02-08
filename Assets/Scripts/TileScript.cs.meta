@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 560a0c717241de54196c7c3199066c4f
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - Grass: {instanceID: 0}
+  - Sea: {instanceID: 0}
+  - Error: {instanceID: 0}
+  - River: {fileID: 6400341341256722150, guid: 6dc8ef0268cabe646bc627a9f046f66d, type: 3}
+  - CoastEdge: {instanceID: 0}
+  - CoastCorner: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
